@@ -1,11 +1,7 @@
 # submision-event-frontend-2021
 
-\
-<br>
-
 ## Berikut ini merupakan para submision Event Front-end Wibucode 2021 
 
-\
 \
 <br>
 

@@ -270,29 +270,6 @@ Terima kasih:pray:
 ---
 
 
-\
-<br>
-
-### Zidan Gema Ramadhan
-
-Halo kawan-kawan, semoga kalian sehat semua. Pada kesempatan kali ini saya membuat sebuah website yang bertemakan parawisata.
-
-Jelajah Banten - Wisata, Kuliner, dan Produk Lokal
-adalah sebuah website yang berisikan semua wisata, kuliner dan produk lokal dari wilayah provinsi Banten. Website ini dibuat bertujuan untuk mempromosikan keindahan alam serta kuliner Banten.
-
-Tools :
-- HTML 5
-- CSS 3
-- Bootstrap 4
-- JavaScript
-- jQuery
-- aos.js
-
-Link : https://jelajahbanten.xyz/
-
-Terima kasih:pray:
-
----
 
 \
 <br>

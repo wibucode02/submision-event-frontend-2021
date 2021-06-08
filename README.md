@@ -38,7 +38,7 @@ Link demo: https://svelteception.vercel.app/
 Nama Project : Rahulsya-profile
 Deskripsi : web profile berisi tentang project yang telah dikerjakan dan terdapat list blogs . dibuat dengan reactjs dan tailwind css untuk api menggunakan dari contentful dan medium
 
-link demo : https://rahulsya.netlify.app/(edited)
+link demo : https://rahulsya.netlify.app/
 
 ---
 
